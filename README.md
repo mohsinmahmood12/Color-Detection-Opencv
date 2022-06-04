@@ -7,14 +7,16 @@ Real-Time Multiple Color Detection through WebCam
 # Right now it can only identify the following colors together-
 
 <li>
-  Red
-  Blue
-  Yellow
-  Orange
-  Green
+  <ul>Red</ul>
+  <ul>Blue</ul>
+  <ul>Yellow</ul>
+  <ul>Orange</ul>
+  <ul>Green</ul>
 </li>
+
 # Dependencies :
+
 </li>
-Python
-Opencv-Python
+<ul>Python</ul>
+<ul>Opencv-Python</ul>
 </li>
